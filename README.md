@@ -1,5 +1,5 @@
 # Hangman Game Project
-"The **'Hangman Game'** project is a text-based console game implemented in **C#**. The objective of the game is *for players to guess a secret word by suggesting letters*. 
+The **'Hangman Game'** project is a text-based console game implemented in **C#**. The objective of the game is *for players to guess a secret word by suggesting letters*. 
 The game starts by randomly selecting a word from a predefined list of words stored in a text file. 
 Players are then presented with a series of underscores representing each letter in the word, along with a visual representation of a gallows and hangman.
 
