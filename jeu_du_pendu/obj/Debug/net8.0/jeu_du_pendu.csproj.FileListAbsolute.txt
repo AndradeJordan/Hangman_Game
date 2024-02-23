@@ -1,0 +1,15 @@
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\jeu_du_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\jeu_du_pendu.AssemblyInfoInputs.cache
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\jeu_du_pendu.AssemblyInfo.cs
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\jeu_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\bin\Debug\net8.0\jeu_du_pendu.exe
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\bin\Debug\net8.0\jeu_du_pendu.deps.json
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\bin\Debug\net8.0\jeu_du_pendu.runtimeconfig.json
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\bin\Debug\net8.0\jeu_du_pendu.dll
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\bin\Debug\net8.0\jeu_du_pendu.pdb
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\jeu_du_pendu.dll
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\refint\jeu_du_pendu.dll
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\jeu_du_pendu.pdb
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\jeu_du_pendu.genruntimeconfig.cache
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\obj\Debug\net8.0\ref\jeu_du_pendu.dll
+C:\Users\andra\Desktop\learning\Csharp\jeu_du_pendu\jeu_du_pendu\bin\Debug\net8.0\mots.txt
